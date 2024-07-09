@@ -15,6 +15,13 @@
 
 - ⚡ Fun fact **I think I am funny**
 <br>
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunakalanka76&show_icons=true&locale=en" alt="supunakalanka76" /></p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/supunakalanka76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supunakalanka76" height="30" width="40" /></a>

@@ -7,9 +7,9 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **ESOFT**
 
-- 🌱 I’m currently learning **Laravel, C++, JavaScript and php**
+- 🌱 I’m currently learning **Node.js, Laravel**
 
-- 💬 Ask me about **HTML, CSS, C#**
+- 💬 Ask me about **HTML, CSS, C#, php**
 
 - 📫 How to reach me **supunakalanka76@gmail.com**
 

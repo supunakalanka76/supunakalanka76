@@ -7,7 +7,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **ESOFT**
 
-- 🌱 I’m currently learning **Node.js, Laravel**
+- 🌱 I’m currently learning **Node.js, Laravel and Next.js**
 
 - 💬 Ask me about **HTML, CSS, C#, php**
 

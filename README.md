@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supun Akalanka</h1>
 <h3 align="center">Future IT Professional | Exploring the Limitless Frontiers of Technology</h3>
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px height=100px></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supunakalanka76&label=Profile%20views&color=0e75b6&style=flat" alt="supunakalanka76" /> </p>
 
 ---

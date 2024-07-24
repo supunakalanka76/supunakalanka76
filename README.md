@@ -19,6 +19,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=supunakalanka76)](https://github.com/supunakalanka76/github-profile-trophy)
+
+---
+
 <h3 align="center">My Statics:</h3>
 <!--- stats & Trophy (start) -->
 <p align="center">

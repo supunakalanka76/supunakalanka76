@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **supunakalanka76@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Think fact: **Success built on, the effort you invest now**
 <br>
 
 ---

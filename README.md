@@ -6,15 +6,15 @@
 
 ---
 
-- 🧑‍🎓 I’m an Undergraduate at **ESOFT**
+- 🧑‍🎓 Studying **BEng (Hons) in Software Engineering (TOP UP) – London Metropolitan University (UK)**
 
-- 🌱 I’m currently learning **Node.js, Laravel and React.js**
+- 🌱 Currently learning **Node.js, Laravel**
 
-- 💬 Ask me about **HTML, CSS, C#, php**
+- 💬 Ask me about **HTML, CSS, C#, Python**
 
 - 📫 How to reach me **supunakalanka76@gmail.com**
 
-- ⚡ Think fact: **Success built on, the effort you invest now**
+- ⚡ Think fact: **Success built on, the effort you invest now.**
 <br>
 
 ---
@@ -66,4 +66,4 @@
 -----
 Credits: [Supun Akalanka](https://github.com/supunakalanka76)
 
-Last Edited on: 07/11/2024
+Last Edited on: 29/01/2025

@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Supun Akalanka</h1>
-<h3 align="center">🚀 Future IT Professional | Exploring the Frontiers of Technology</h3>
+<h3 align="center">🚀 Passionate Web & Software Developer | Full-Stack Engineer | UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" height="100" alt="About Me Gif" />

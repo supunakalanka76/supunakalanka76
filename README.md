@@ -1,69 +1,93 @@
+
 <h1 align="center">Hi 👋, I'm Supun Akalanka</h1>
-<h3 align="center">Future IT Professional | Exploring the Limitless Frontiers of Technology</h3>
+<h3 align="center">🚀 Future IT Professional | Exploring the Frontiers of Technology</h3>
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px height=100px></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=supunakalanka76&label=Profile%20views&color=0e75b6&style=flat" alt="supunakalanka76" /> </p>
-
----
-
-- 🧑‍🎓 Studying **BEng (Hons) in Software Engineering (TOP UP) – London Metropolitan University (UK)**
-
-- 🌱 Currently learning **Node.js, Laravel**
-
-- 💬 Ask me about **HTML, CSS, C#, Python**
-
-- 📫 How to reach me **supunakalanka76@gmail.com**
-
-- ⚡ Think fact: **Success built on, the effort you invest now.**
-<br>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=supunakalanka76)](https://github.com/supunakalanka76/github-profile-trophy)
-
----
-
-<h3 align="center">My Statics:</h3>
-<!--- stats & Trophy (start) -->
 <p align="center">
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=supunakalanka76&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=supunakalanka76&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=supunakalanka76&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/supunakalanka76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supunakalanka76" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/supun-akalanka-420203294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun-akalanka-420203294" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26012393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26012393" height="30" width="40" /></a>
-<a href="https://kaggle.com/supunakalanka76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="supunakalanka76" height="30" width="40" /></a>
-<a href="https://fb.com/supunakalanka76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supunakalanka76" height="30" width="40" /></a>
-<a href="https://instagram.com/supun_akalanka7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun_akalanka7" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" height="100" alt="About Me Gif" />
 </p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> </p>
 
------
-Credits: [Supun Akalanka](https://github.com/supunakalanka76)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=supunakalanka76&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Last Edited on: 29/01/2025
+---
+
+### 🎓 Education
+- **BEng (Hons) in Software Engineering (Top-Up)**  
+  *London Metropolitan University, UK*
+
+### 🌱 Currently Learning
+- **Node.js** | **Laravel**
+
+### 💬 Ask Me About
+- HTML | CSS | C# | Python
+
+### 📫 Contact Me
+- **Email**: supunakalanka76@gmail.com
+
+### ⚡ Fun Fact
+- *Success is built on the effort you invest now.*
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=supunakalanka76&theme=algolia" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=supunakalanka76&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunakalanka76&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=supunakalanka76&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/supun-akalanka-420203294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/26012393" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://kaggle.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://fb.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/supun_akalanka7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="C#" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="40" />
+</p>
+
+---
+
+### 📝 Credits
+Created by **[Supun Akalanka](https://github.com/supunakalanka76)**  
+_Last updated: 01/05/2025_

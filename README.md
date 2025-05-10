@@ -16,7 +16,7 @@
   *London Metropolitan University, UK*
 
 ### 🌱 Currently Learning
-- **Node.js** | **Laravel**
+- **Node.js** | **Next.js**
 
 ### 💬 Ask Me About
 - HTML | CSS | C# | Python
@@ -89,4 +89,4 @@
 
 ### 📝 Credits
 Created by **[Supun Akalanka](https://github.com/supunakalanka76)**  
-_Last updated: 01/05/2025_
+_Last updated: 11/05/2025_

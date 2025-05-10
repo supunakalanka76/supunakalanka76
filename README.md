@@ -56,33 +56,44 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/supun-akalanka-420203294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/26012393" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://kaggle.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://fb.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/supun_akalanka7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/https://discord.com/shenn7" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Frameworks
 
 <p align="left">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="C#" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet" width="40" />
+  
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" />
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" />
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Idea" width="40" />
 </p>
 
 ---

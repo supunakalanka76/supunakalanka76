@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  I'm Supun Akalanka, a Software Engineering undergraduate at London Metropolitan University and a passionate full-stack developer with a strong interest in building scalable and user-centric web and software  applications. 💡 With hands-on experience in technologies like React, Next.js, Node.js, and PostgreSQL, I focus on creating responsive interfaces, robust backends, and seamless user experiences.  
+  <br /><br />
+  Alongside development, I enjoy working on UI/UX design with Figma and actively contribute to innovative platforms such as eShiftApp, IslandWhiz, and WanderWise. I'm also open to freelance opportunities and always excited to collaborate on meaningful tech projects. Let’s build something impactful together!
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=supunakalanka76&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -26,6 +32,16 @@
 
 ### ⚡ Fun Fact
 - *Success is built on the effort you invest now.*
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/supun-akalanka-420203294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/26012393" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://kaggle.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://fb.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://discord.gg/https://discord.com/shenn7" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 ---
 
@@ -53,51 +69,57 @@
 
 ---
 
-### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/supun-akalanka-420203294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/26012393" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://kaggle.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://fb.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://discord.gg/https://discord.com/shenn7" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+### 🛠️ Languages & Tools
 
----
-
-### 🛠️ Languages & Frameworks
-
-<p align="left">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="C#" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet" width="40" />
+  <!-- Frontend -->
+  - Frontend
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui" />
+      </a>
+    </p>
   
+  <!-- Backend -->
+  - Backend
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,nodejs,py,flask,express,cs" />
+      </a>
+    </p>
+  
+  <!-- Frameworks & Libraries -->
+  - Frameworks & Libraries
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,next,dotnet" />
+      </a>
+    </p>
+  
+  <!-- Database -->
+  - Database
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+      </a>
+    </p>
+  
+  <!-- Tools -->
+  - Tools
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,visualstudio" />
+      </a>
+    </p>
+    
+---
+<br />
+<p align="center">
+  I'm a passionate and detail-oriented Full Stack Developer with a strong focus on web development and UI/UX design. I enjoy turning complex problems into intuitive, scalable, and efficient digital solutions using modern technologies like React, Next.js, Node.js, and MySQL. I’m also skilled in design tools like Figma to ensure visually appealing user experiences.  
+  <br /><br />
+  I'm currently open to freelance opportunities and collaborative projects. Whether you're a startup, business, or individual with a creative idea — let’s connect and bring it to life!
 </p>
 
----
-
-### 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Idea" width="40" />
-</p>
-
----
-
-### 📝 Credits
-Created by **[Supun Akalanka](https://github.com/supunakalanka76)**  
-_Last updated: 30/07/2025_
+<br>
+<p align="right" > Created with ❤ by Supun Akalanka</p>
+<p align="right"> - Last Update: 31.07.2025 - </p>

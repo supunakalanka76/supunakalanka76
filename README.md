@@ -12,7 +12,7 @@
 ---
 
 ### 🎓 Education
-- **BEng (Hons) in Software Engineering (Top-Up)**  
+- **BEng (Hons) in Software Engineering (TOP-UP)**  
   *London Metropolitan University, UK*
 
 ### 🌱 Currently Learning
@@ -100,4 +100,4 @@
 
 ### 📝 Credits
 Created by **[Supun Akalanka](https://github.com/supunakalanka76)**  
-_Last updated: 11/05/2025_
+_Last updated: 30/07/2025_

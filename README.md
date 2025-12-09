@@ -25,7 +25,7 @@ Beyond development, I enjoy **UI/UX design** using Figma and actively contribute
 [![GitHub](https://img.shields.io/badge/GitHub-supunakalanka76-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supunakalanka76)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Supun_Akalanka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supun-akalanka-420203294)
 [![Email](https://img.shields.io/badge/Email-supunakalanka76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supunakalanka76@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@supunakalanka-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/supunakalanka76)
+[![Twitter](https://img.shields.io/badge/Twitter-@supunakalanka76-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/supunakalanka76)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=supunakalanka76&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/supunakalanka76)
 

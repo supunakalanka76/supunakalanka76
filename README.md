@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Passionate Web & Software Developer | Full-Stack Engineer | UI/UX Enthusiast</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Web+%26+Software+Developer+%F0%9F%92%BB;Full+&#8210+Stack+Developer+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" height="100" alt="About Me Gif" />
 </p>
 
@@ -122,4 +126,4 @@
 
 <br>
 <p align="right" > Created with ❤ by Supun Akalanka</p>
-<p align="right"> - Last Update: 31.07.2025 - </p>
+<p align="right"> - Last Update: 09 Dec 2025 - </p>

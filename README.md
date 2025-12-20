@@ -119,11 +119,11 @@
 ---
 <br />
 <p align="center">
-  I'm a passionate and detail-oriented Full Stack Developer with a strong focus on web development and UI/UX design. I enjoy turning complex problems into intuitive, scalable, and efficient digital solutions using modern technologies like React, Next.js, Node.js, and MySQL. I’m also skilled in design tools like Figma to ensure visually appealing user experiences.  
+  I'm a passionate and detail-oriented Full Stack Developer with a strong focus on web development and UI/UX design. I enjoy turning complex problems into intuitive, scalable, and efficient digital solutions using modern technologies like React, Next.js, Node.js, and PostgreSQL. I’m also skilled in design tools like Figma to ensure visually appealing user experiences.  
   <br /><br />
   I'm currently open to freelance opportunities and collaborative projects. Whether you're a startup, business, or individual with a creative idea - let’s connect and bring it to life!
 </p>
 
 <br>
 <p align="right" > Created with ❤ by Supun Akalanka</p>
-<p align="right"> - Last Update: 09 Dec 2025 - </p>
+<p align="right"> - Last Update: 21 December 2025 - </p>

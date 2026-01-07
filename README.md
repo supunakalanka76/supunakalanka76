@@ -1,19 +1,5 @@
-<h1 align="center">Hi 👋, I'm Supun Akalanka</h1>
-<h3 align="center">🚀 Passionate Web & Software Developer | Full-Stack Engineer | UI/UX Enthusiast</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Web+%26+Software+Developer+%F0%9F%92%BB;Full+&#8210+Stack+Developer+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" height="100" alt="About Me Gif" />
-</p>
-
-<p align="center">
-  I'm Supun Akalanka, a Software Engineering undergraduate at London Metropolitan University and a passionate full-stack developer with a strong interest in building scalable and user-centric web and software  applications. 💡 With hands-on experience in technologies like React, Next.js, Node.js, and PostgreSQL, I focus on creating responsive interfaces, robust backends, and seamless user experiences.  
-  <br /><br />
-  Alongside development, I enjoy working on UI/UX design with Figma and actively contribute to innovative platforms such as eShiftApp, IslandWhiz, and WanderWise. I'm also open to freelance opportunities and always excited to collaborate on meaningful tech projects. Let’s build something impactful together!
-</p>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Supun Akalanka</h1>
+<h3 align="center">Passionate Web & Software Developer • Full-Stack Engineer • UI/UX Enthusiast | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=supunakalanka76&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,42 +7,65 @@
 
 ---
 
-### 🎓 Education
-- **BEng (Hons) in Software Engineering (TOP-UP)**  
-  *London Metropolitan University, UK*
+## About Me
 
-### 🌱 Currently Learning
-- **Node.js** | **Next.js**
+I'm Supun Akalanka, a passionate full-stack developer with a strong interest in building scalable and user-centric web and software applications.
 
-### 💬 Ask Me About
-- HTML | CSS | C# | Python
-
-### 📫 Contact Me
-- **Email**: supunakalanka76@gmail.com
-
-### ⚡ Fun Fact
-- *Success is built on the effort you invest now.*
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/supun-akalanka-420203294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/26012393" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://kaggle.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://fb.com/supunakalanka76" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://discord.gg/https://discord.com/shenn7" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+- 🎓 **BEng (Hons) in Software Engineering (TOP-UP)** at London Metropolitan University, UK
+- 💼 Full-stack development experience with **eShiftApp**, **IslandWhiz**, and **WanderWise**
+- 🌱 Currently learning **Node.js** and **Next.js**
+- 💡 Skilled in **HTML**, **CSS**, **C#**, **Python**, React, PostgreSQL, and more
+- 🎨 Passionate about **UI/UX design** with Figma
+- 💼 Open to **freelance opportunities** and collaborative projects
+- 📫 Contact me: **supunakalanka76@gmail.com**
+- ⚡ Fun fact: *Success is built on the effort you invest now.*
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supunakalanka76&theme=algolia" alt="GitHub Trophies" />
-</p>
+## My Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=222)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -73,57 +82,46 @@
 
 ---
 
+## What You'll Discover
 
-### 🛠️ Languages & Tools
+Here on my profile, you'll find a collection of projects and contributions that showcase my passion for technology and innovation:
 
-  <!-- Frontend -->
-  - Frontend
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui" />
-      </a>
-    </p>
-  
-  <!-- Backend -->
-  - Backend
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,nodejs,py,flask,express,cs" />
-      </a>
-    </p>
-  
-  <!-- Frameworks & Libraries -->
-  - Frameworks & Libraries
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,next,dotnet" />
-      </a>
-    </p>
-  
-  <!-- Database -->
-  - Database
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-      </a>
-    </p>
-  
-  <!-- Tools -->
-  - Tools
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,visualstudio" />
-      </a>
-    </p>
-    
+- 🚀 **Projects & Contributions**: Explore my repositories featuring full-stack applications, web tools, and experimental projects
+- 🎯 **Focus Areas**: UI/UX design, scalable web applications, and user-centric solutions
+- 💻 **Development Philosophy**: I believe in writing clean, maintainable code and creating intuitive user experiences
+
+> *"Growth and learning are continuous journeys. Every challenge is an opportunity to evolve and innovate."*
+
 ---
-<br />
+
+### Connect with me 🤝
+
 <p align="center">
-  I'm a passionate and detail-oriented Full Stack Developer with a strong focus on web development and UI/UX design. I enjoy turning complex problems into intuitive, scalable, and efficient digital solutions using modern technologies like React, Next.js, Node.js, and PostgreSQL. I’m also skilled in design tools like Figma to ensure visually appealing user experiences.  
-  <br /><br />
-  I'm currently open to freelance opportunities and collaborative projects. Whether you're a startup, business, or individual with a creative idea - let’s connect and bring it to life!
+  <a href="https://linkedin.com/in/supun-akalanka-420203294" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/supunakalanka76" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
+  </a>
+  <a href="https://fb.com/supunakalanka76" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="mailto:supunakalanka76@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Email" />
+  </a>
+  <a href="https://discord.gg/https://discord.com/shenn7" target="_blank">
+    <img src="https://img.icons8.com/color/40/000000/discord-logo.png" alt="Discord" />
+  </a>
+  <a href="https://stackoverflow.com/users/26012393" target="_blank">
+    <img src="https://img.icons8.com/color/40/000000/stackoverflow.png" alt="Stack Overflow" />
+  </a>
+  <a href="https://kaggle.com/supunakalanka76" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="Kaggle" />
+  </a>
 </p>
 
-<br>
-<p align="right" > Created with ❤ by Supun Akalanka</p>
-<p align="right"> - Last Update: 21 December 2025 - </p>
+---
+
+<p align="center">
+  Supun Akalanka © 2026
+</p>

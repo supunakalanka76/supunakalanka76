@@ -4,10 +4,10 @@
 
 ### Passionate Full-Stack Engineer | Building Digital Experiences 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Software+Engineer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Junior+Software+Engineer;UI%2FUX+Enthusiast;" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=supunakalanka76&label=Profile%20views&color=3b82f6&style=flat-square)](https://github.com/supunakalanka76)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/supun-akalanka-420203294)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/supunakalanka76)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:supunakalanka76@gmail.com)
 
 </div>
@@ -37,7 +37,7 @@ motto: "Success is built on the effort you invest now."
 
 ---
 
-## 🛠��� Tech Stack
+## 🛠 Tech Stack
 
 <details open>
 <summary><b>💻 Languages</b></summary>

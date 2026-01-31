@@ -118,7 +118,7 @@ motto: "Success is built on the effort you invest now."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=supunakalanka76&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme-tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=supunakalanka76&no-bg=false&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme-tokyonight" alt="GitHub Trophies" />
 </div>
 
 ---
